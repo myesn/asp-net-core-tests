@@ -1,0 +1,14 @@
+D:\test\dotnet\AspNetCoreTests\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.deps.json
+D:\test\dotnet\AspNetCoreTests\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.runtimeconfig.json
+D:\test\dotnet\AspNetCoreTests\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.runtimeconfig.dev.json
+D:\test\dotnet\AspNetCoreTests\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.dll
+D:\test\dotnet\AspNetCoreTests\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.pdb
+D:\test\dotnet\AspNetCoreTests\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.csprojAssemblyReference.cache
+D:\test\dotnet\AspNetCoreTests\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.csproj.CoreCompileInputs.cache
+D:\test\dotnet\AspNetCoreTests\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.RazorAssemblyInfo.cache
+D:\test\dotnet\AspNetCoreTests\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.RazorAssemblyInfo.cs
+D:\test\dotnet\AspNetCoreTests\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.AssemblyInfoInputs.cache
+D:\test\dotnet\AspNetCoreTests\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.AssemblyInfo.cs
+D:\test\dotnet\AspNetCoreTests\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.RazorTargetAssemblyInfo.cache
+D:\test\dotnet\AspNetCoreTests\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.dll
+D:\test\dotnet\AspNetCoreTests\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.pdb
